@@ -1,0 +1,13 @@
+numpy
+pandas
+seaborn
+matplotlib
+sklearn
+lightbgm
+xgboost
+tabulate
+optuna 
+klib 
+plotly
+tensorflow
+keras
